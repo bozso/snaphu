@@ -1,4 +1,7 @@
 SNAPHU
+
+A fork that I wish to make compatible with <a href="https://www.clibs.org/">clibs</a>
+
 Statistical-Cost, Network-Flow Algorithm for Phase Unwrapping
 Author: Curtis W. Chen
 Version 1.4.2, January 2003, Last Modified September 2015 (Luke Webber)
@@ -10,7 +13,7 @@ Contents
   1. Bugs and Bug Reporting
   2. Notes on Compiling
   3. Run-Time Configuration Files
-  4. Copyright 
+  4. Copyright
 
 
 Bugs And Bug Reporting
