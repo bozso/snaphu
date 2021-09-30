@@ -1,0 +1,20 @@
+{
+    "name": "snaphu",
+    "version": "1.4.2",
+    "repo": "bozso/snaphu",
+    "description": "Statistical-Cost, Network-Flow Algorithm for Phase Unwrapping",
+    "keywords": ["cli", "insar", "phase-unwrapping"],
+    "license": "Copyright 2002 Board of Trustees, Leland Stanford Jr. University",
+    "src": [
+        "src/snaphu.c",
+        "src/snaphu.h",
+        "src/snaphu_io.c",
+        "src/snaphu_tile.c",
+        "src/snaphu_util.c",
+        "src/snaphu_solver.c",
+        "src/snaphu_cost.c",
+        "src/snaphu_cs2.c",
+        "src/snaphu_cs2parse.c",
+        "src/snaphu_cs2types.h"
+    ]
+}
