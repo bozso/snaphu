@@ -1,6 +1,8 @@
-SNAPHU
+# SNAPHU
 
-A fork that I wish to make compatible with <a href="https://www.clibs.org/">clibs</a>
+A fork that I wish to make compatible with <a href="https://www.clibs.org/">clibs</a>.
+
+Below is the original text from the forked repository.
 
 Statistical-Cost, Network-Flow Algorithm for Phase Unwrapping
 Author: Curtis W. Chen
